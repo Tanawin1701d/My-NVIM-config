@@ -36,7 +36,7 @@
 ## Installation
 1. install vimplug following these instruction. https://github.com/junegunn/vim-plug
 2. copy all files from this repository to 
-``` ~/.config/nvim ``` .
+``` ~/.config/nvim ``` and install nerd font.
 3. comment all lines in ```init.vim``` except line 5 -> 46
 4. use ``` :PlugInstall``` command inside nvim which is opened init.vim
 5. use command ``` npm install -i``` in side ```~/.local/share/nvim/plugged/coc.nvim ``` folder
